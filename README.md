@@ -27,7 +27,7 @@ Les données sont mises à jour toutes les 2 secondes
 
 ![monitoring](_docs/chrome_web.jpg)
 
-Ce script consomme moins de 1% des capactié du raspberry pi.
+Ce script consomme moins de 1% des capacités du raspberry pi.
 
 ### automatisation au démarrage du pi
 Pour que le monitoring démarre automatiquement avec le démarrage du raspberry pi, il faut ajouter une commande dans la cron table:
