@@ -31,7 +31,6 @@ Ce script consomme moins de 1% des capacités du raspberry pi.
 
 ### automatisation au démarrage du pi
 Pour que le monitoring démarre automatiquement avec le démarrage du raspberry pi, il faut ajouter une commande dans la cron table:
-Pour entrer dans la crontable en mode édition:
 
 ```bach
 sudo nano /etc/crontab -e
