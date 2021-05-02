@@ -33,11 +33,15 @@ Ce script consomme moins de 1% des capactié du raspberry pi.
 Pour que le monitoring démarre automatiquement avec le démarrage du raspberry pi, il faut ajouter une commande dans la cron table:
 Pour entrer dans la crontable en mode édition:
 
+```bach
 sudo nano /etc/crontab -e
+```
 
 ajouter cette ligne à la fin: 
 
+```bach
 @reboot pi python3 'sysdroid_oled.py' &
+```
 
 ctrl-O pour enregistrer, puis ctrl-X pour quitter.
 
