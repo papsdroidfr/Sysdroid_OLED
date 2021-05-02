@@ -19,9 +19,9 @@ Exécuter le script **oled_I2C_test.py** (à récupérer dans le dossier Python 
 
 ### script principal
 Déposez dans /home/pi le script **sysdroid_oled.py** (à récupérer dans le dossier Python)
-Vous pouvez l'exécuter pour vérifier que le monitoring des CPUs, RAM, DIsk et température démarre.
-* Sur la gauche s'affiche l'état des 4 processeurs sou forme de barres de niveaux verticales
-* En haut à droite: il y a le niveau de la RAM puis le niveau de l'espace Disk sous forme de barre de nuveaux horizontales
+Vous pouvez l'exécuter pour vérifier que le monitoring des CPUs, RAM, Disk et température démarre.
+* Sur la gauche s'affiche l'état des 4 processeurs sous forme de barres de niveaux verticales
+* En haut à droite: il y a le niveau de la RAM puis le niveau de l'espace Disk sous forme de barre de niveaux horizontales
 * en bas à droite est indiquée la température des processeurs en °C.
 Les données sont mises à jour toutes les 2 secondes
 
