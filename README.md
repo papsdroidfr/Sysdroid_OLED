@@ -1,10 +1,12 @@
 # Sysdroid_OLED
 
 Monitoring temps réel des CPUs, RAM, espace disque et température d'un Rapspberry pi sur un petit écran OLED I2C 128*64 pixels.
+
 ![sysdroidOLED](_docs/IMG_20210504_162243_web.jpg)
 
 ## Circuit électronique
 ![fritzing](_docs/fritzing_sysdroid_oled_bb.png)
+
 vous n'avez besoin que d'un petit écran OLED I2C (4 broches) de 128*64 pixels et d'une nappe de 4 câbles souples femelle/femelles
 
 ## préparation du système
@@ -49,5 +51,10 @@ ctrl-O pour enregistrer, puis ctrl-X pour quitter.
 
 Le monitoring va démarrer à chaque reboot du Raspberry.
 
+## cache imprimé 3D
 
+un petit cache optionnel peut être imprimé 3D (18mn en 0.2mm, remplissage 17%).
+Le STL est à récupérer dans le dossier STL3D de ce github.
+
+![cahce3D](_docs/cache3D.png)
 
