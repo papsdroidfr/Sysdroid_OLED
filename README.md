@@ -56,5 +56,5 @@ Le monitoring va démarrer à chaque reboot du Raspberry.
 un petit cache optionnel peut être imprimé 3D (18mn en 0.2mm, remplissage 17%).
 Le STL est à récupérer dans le dossier STL3D de ce github.
 
-![cahce3D](_docs/cache3D.png)
+![cache3D](_docs/cache3D.png)
 
